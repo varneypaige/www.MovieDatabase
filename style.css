@@ -1,0 +1,185 @@
+body{
+	
+}
+.container{
+	width: 800px;
+	margin: auto;
+	/*background-color: #7D868F;*/
+	
+	
+}
+.title{
+	font-family: 'Special Elite', cursive;
+	font-size: 50px;
+	text-align: center;
+	font-weight: bold;
+	padding-top: 25px;
+	
+}
+.headerSlogan{
+	font-family: 'Amatic SC', cursive;
+	font-style: italic;
+	text-align: center;
+	font-size: 30px;
+	padding-bottom: 25px;
+
+}
+.pageHeader p{
+	margin: 0px;
+	color: white;
+	
+}
+.pageHeader{
+	width: 100%;
+	background-color: #5A6F8E;
+	box-shadow: 0px 5px 10px black;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+nav{
+	margin-top: 10px;
+}
+
+nav a{
+	margin-right: 5px;
+	padding: 8px;
+	background-color: #862d2d;
+	text-decoration: none;
+	color: white;
+	font-family: 'Special Elite', cursive;
+}
+nav li{
+	display: inline-block;
+}
+.secondNav {
+	float: right;
+	margin-top: -34px;
+}
+ul.firstNav{
+	padding: 0px;
+}
+a:hover{
+	box-shadow: 5px 5px 10px black;
+	padding: 10px;
+}
+.titleHeader{
+	font-family: 'Special Elite', cursive;
+	font-size: 30px;
+	margin-bottom: 0px;
+}
+.releaseYearSpan{
+	font-family: 'Josefin Slab', serif;
+}
+article{
+	padding: 25px;
+	
+}
+.movieDescription{
+	padding-top: 60px;
+}
+.moviePoster{
+	float: left;
+	padding-right: 30px;
+	height: 400px;
+}
+.castSection img{
+	margin: 10px;
+	margin-bottom: 2px;
+	width: 100px;
+	border: 2px solid white;
+	/*box-shadow: 2px 2px 5px black;*/
+}
+.castHeader{
+	font-family: 'Special Elite', cursive;
+	margin-bottom: 0px;
+	margin-top: 300px;
+	padding-top: 25px;
+}
+.castSection{
+	text-align: center;
+	background-color: #862d2d;
+	color: white;
+	padding-bottom: 25px;
+	box-shadow: 0px 5px 10px black;
+}
+.castNames li{
+	/*font-family: 'Amatic SC', cursive;*/
+	font-family: 'Josefin Slab', serif;
+	display: inline-block;
+	width: 124px;
+	font-size: 18px;
+	margin-top: 0px;
+	text-align: center;
+}
+p{
+	font-family: 'Josefin Slab', serif;
+	font-size: 20px;
+}
+.indexLinks {
+	margin-left: 25px;
+}
+.indexLinks img{
+	margin-top: 25px;
+	width: 175px;
+}
+.indexLinks a:hover{
+	box-shadow: none;
+	padding: 0px;
+}
+.movieTrailer{
+	margin-top: 40px;
+	padding: 20px 95px;
+}
+footer p{
+	text-align: center;
+	font-size: 15px;
+	/*color: white;*/
+}
+footer{
+	margin-top: 100px;
+	/*background-color: #5A6F8E;*/
+}
+
+/* MOVIES.html */
+.movieImageLinks{
+	margin-left: 25px;
+}
+.movieImageLinks a:hover{
+	box-shadow: none;
+	padding: 0px;
+}
+.movieImageLinks img{
+	width: 175px;
+	margin-top: 25px;
+}
+.movieNames li{
+	font-family: 'Josefin Slab', serif;
+	display: inline-block;
+	width: 175px;
+	font-size: 18px;
+	margin-top: 0px;
+	text-align: center;
+}
+.movieDates li{
+	font-family: 'Josefin Slab', serif;
+	display: inline-block;
+	width: 175px;
+	font-size: 18px;
+	margin-top: 0px;
+	text-align: center;
+	padding-top: 5px;
+}
+
+/* ACTORS.html */
+.actorImageLinks a:hover{
+	box-shadow: none;
+	padding: 0px;
+}
+.actorImageLinks img{
+	width: 65px;
+	padding: 12px;	
+}
+.actorImageLinks{
+	
+}
+
